@@ -39,8 +39,3 @@
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
-
-------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
